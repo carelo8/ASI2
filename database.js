@@ -1,4 +1,8 @@
 
+
+
+	// Soy Samuel reportandome de lo mas oscuro de mi ser CAMBIO
+
 	var db = null;
 	var namedatabase = "db.0.0.4.5";
 	var dbversion = '1.1';
